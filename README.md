@@ -1,4 +1,4 @@
 # hello-world
-hello world tutorial repository
+hello world repository
 
 wrote this line to test how branches and commits work
